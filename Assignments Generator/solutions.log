@@ -1,0 +1,643 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2016.5.15)  20 APR 2017 22:40
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**solutions.tex
+(./solutions.tex
+LaTeX2e <2016/02/01>
+Babel <3.9q> and hyphenation patterns for 5 language(s) loaded.
+(/usr/share/texlive/texmf-dist/tex/latex/exam/exam.cls
+Document Class: exam 2015/05/07 Version 2.5 by Philip Hirschhorn
+(/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+\@extrawidth=\skip43
+\@rightmargin=\skip44
+\@extrahead=\skip45
+\@extrafoot=\skip46
+\run@exhd=\skip47
+\fp@exhd=\skip48
+\run@exft=\skip49
+\fp@exft=\skip50
+\covrun@exhd=\skip51
+\covfp@exhd=\skip52
+\covrun@exft=\skip53
+\covfp@exft=\skip54
+\c@num@coverpages=\count87
+\c@latest@ques=\count88
+\c@ques@end=\count89
+\c@last@object=\count90
+\c@incmp@ques=\count91
+\c@next@ques=\count92
+\c@next@page=\count93
+\c@tmp@hlfcntr=\count94
+\c@ifpos@cntr=\count95
+\c@question=\count96
+\c@partno=\count97
+\c@subpart=\count98
+\c@subsubpart=\count99
+\c@choice=\count100
+\c@numpoints=\count101
+\c@numbonuspoints=\count102
+\c@pointsof@thisquestion=\count103
+\c@bonuspointsof@thisquestion=\count104
+\c@numquestions=\count105
+\c@numparts=\count106
+\c@numsubparts=\count107
+\c@numsubsubparts=\count108
+\c@Curr@Page=\count109
+\c@@pagepoints=\count110
+\c@@pagebonuspoints=\count111
+\c@pageof@pagepoints=\count112
+\c@pageof@pagebonuspoints=\count113
+\c@latest@points=\count114
+\c@latest@bonuspoints=\count115
+\pageinfo@commands=\toks14
+\temp@toks=\toks15
+\pagepoint@commands=\toks16
+\point@toks=\toks17
+\c@ques@object=\count116
+\marginpointssep=\skip55
+\rightpointsmargin=\skip56
+\choice@toks=\toks18
+\answerlinelength=\skip57
+\answerskip=\skip58
+\answerclearance=\skip59
+\fillinlinelength=\skip60
+\linefillheight=\skip61
+\linefillthickness=\skip62
+\dottedlinefillheight=\skip63
+\gridsize=\skip64
+\gridlinewidth=\skip65
+\minboxheight=\skip66
+\c@@iterator=\count117
+\@cellwidth=\skip67
+\c@tbl@points=\count118
+\c@tbl@bonuspoints=\count119
+\c@num@cols=\count120
+\exam@box=\box26
+\saved@totalleftmargin=\dimen103
+\@sollistdepth=\count121
+\FrameRule=\dimen104
+\FrameSep=\dimen105
+)
+(/usr/share/texlive/texmf-dist/tex/latex/nopageno/nopageno.sty
+Package: nopageno 1989/01/01 no page numbers (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/filecontents/filecontents.sty
+Package: filecontents 2011/10/08 v1.3 Create an external file from within a LaT
+eX document
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2016/03/03 v2.15a AMS math features
+\@mathmargin=\skip68
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks19
+\ex@=\dimen106
+))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen107
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count122
+LaTeX Info: Redefining \frac on input line 199.
+\uproot@=\count123
+\leftroot@=\count124
+LaTeX Info: Redefining \overline on input line 297.
+\classnum@=\count125
+\DOTSCASE@=\count126
+LaTeX Info: Redefining \ldots on input line 394.
+LaTeX Info: Redefining \dots on input line 397.
+LaTeX Info: Redefining \cdots on input line 518.
+\Mathstrutbox@=\box27
+\strutbox@=\box28
+\big@size=\dimen108
+LaTeX Font Info:    Redeclaring font encoding OML on input line 630.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 631.
+\macc@depth=\count127
+\c@MaxMatrixCols=\count128
+\dotsspace@=\muskip10
+\c@parentequation=\count129
+\dspbrk@lvl=\count130
+\tag@help=\toks20
+\row@=\count131
+\column@=\count132
+\maxfields@=\count133
+\andhelp@=\toks21
+\eqnshift@=\dimen109
+\alignsep@=\dimen110
+\tagshift@=\dimen111
+\tagwidth@=\dimen112
+\totwidth@=\dimen113
+\lineht@=\dimen114
+\@envbody=\toks22
+\multlinegap=\skip69
+\multlinetaggap=\skip70
+\mathdisplay@stack=\toks23
+LaTeX Info: Redefining \[ on input line 2735.
+LaTeX Info: Redefining \] on input line 2736.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/enumerate.sty
+Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
+\@enLab=\toks24
+)
+(/usr/share/texlive/texmf-dist/tex/latex/units/nicefrac.sty
+Package: nicefrac 1998/08/04 v0.9b Nice fractions
+\L@UnitsRaiseDisplaystyle=\skip71
+\L@UnitsRaiseTextstyle=\skip72
+\L@UnitsRaiseScriptstyle=\skip73
+)
+No file solutions.aux.
+\openout1 = `solutions.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+(./assignments.tex
+
+LaTeX Warning: Marginpar on page 1 moved.
+
+LaTeX Font Info:    Try loading font information for U+msa on input line 6.
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 6.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+) [1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+
+LaTeX Warning: Marginpar on page 2 moved.
+
+[2]
+
+LaTeX Warning: Marginpar on page 3 moved.
+
+[3]
+
+LaTeX Warning: Marginpar on page 4 moved.
+
+[4]
+
+LaTeX Warning: Marginpar on page 5 moved.
+
+[5]
+
+LaTeX Warning: Marginpar on page 6 moved.
+
+[6]
+
+LaTeX Warning: Marginpar on page 7 moved.
+
+[7]
+
+LaTeX Warning: Marginpar on page 8 moved.
+
+[8]
+
+LaTeX Warning: Marginpar on page 9 moved.
+
+[9]
+
+LaTeX Warning: Marginpar on page 10 moved.
+
+[10]
+
+LaTeX Warning: Marginpar on page 11 moved.
+
+[11]
+
+LaTeX Warning: Marginpar on page 12 moved.
+
+[12]
+
+LaTeX Warning: Marginpar on page 13 moved.
+
+[13]
+
+LaTeX Warning: Marginpar on page 14 moved.
+
+[14]
+
+LaTeX Warning: Marginpar on page 15 moved.
+
+[15]
+
+LaTeX Warning: Marginpar on page 16 moved.
+
+[16]
+
+LaTeX Warning: Marginpar on page 17 moved.
+
+[17]
+
+LaTeX Warning: Marginpar on page 18 moved.
+
+[18]
+
+LaTeX Warning: Marginpar on page 19 moved.
+
+[19]
+
+LaTeX Warning: Marginpar on page 20 moved.
+
+[20]
+
+LaTeX Warning: Marginpar on page 21 moved.
+
+[21]
+
+LaTeX Warning: Marginpar on page 22 moved.
+
+[22]
+
+LaTeX Warning: Marginpar on page 23 moved.
+
+[23]
+
+LaTeX Warning: Marginpar on page 24 moved.
+
+[24]
+
+LaTeX Warning: Marginpar on page 25 moved.
+
+[25]
+
+LaTeX Warning: Marginpar on page 26 moved.
+
+[26]
+
+LaTeX Warning: Marginpar on page 27 moved.
+
+[27]
+
+LaTeX Warning: Marginpar on page 28 moved.
+
+[28]
+
+LaTeX Warning: Marginpar on page 29 moved.
+
+[29]
+
+LaTeX Warning: Marginpar on page 30 moved.
+
+[30]
+
+LaTeX Warning: Marginpar on page 31 moved.
+
+[31]
+
+LaTeX Warning: Marginpar on page 32 moved.
+
+[32]
+
+LaTeX Warning: Marginpar on page 33 moved.
+
+[33]
+
+LaTeX Warning: Marginpar on page 34 moved.
+
+[34]
+
+LaTeX Warning: Marginpar on page 35 moved.
+
+[35]
+
+LaTeX Warning: Marginpar on page 36 moved.
+
+[36]
+
+LaTeX Warning: Marginpar on page 37 moved.
+
+[37]
+
+LaTeX Warning: Marginpar on page 38 moved.
+
+[38]
+
+LaTeX Warning: Marginpar on page 39 moved.
+
+[39]
+
+LaTeX Warning: Marginpar on page 40 moved.
+
+[40]
+
+LaTeX Warning: Marginpar on page 41 moved.
+
+[41]
+
+LaTeX Warning: Marginpar on page 42 moved.
+
+[42]
+
+LaTeX Warning: Marginpar on page 43 moved.
+
+[43]
+
+LaTeX Warning: Marginpar on page 44 moved.
+
+[44]
+
+LaTeX Warning: Marginpar on page 45 moved.
+
+[45]
+
+LaTeX Warning: Marginpar on page 46 moved.
+
+[46]
+
+LaTeX Warning: Marginpar on page 47 moved.
+
+[47]
+
+LaTeX Warning: Marginpar on page 48 moved.
+
+[48]
+
+LaTeX Warning: Marginpar on page 49 moved.
+
+[49]
+
+LaTeX Warning: Marginpar on page 50 moved.
+
+[50]
+
+LaTeX Warning: Marginpar on page 51 moved.
+
+[51]
+
+LaTeX Warning: Marginpar on page 52 moved.
+
+[52]
+
+LaTeX Warning: Marginpar on page 53 moved.
+
+[53]
+
+LaTeX Warning: Marginpar on page 54 moved.
+
+[54]
+
+LaTeX Warning: Marginpar on page 55 moved.
+
+[55]
+
+LaTeX Warning: Marginpar on page 56 moved.
+
+[56]
+
+LaTeX Warning: Marginpar on page 57 moved.
+
+[57]
+
+LaTeX Warning: Marginpar on page 58 moved.
+
+[58]
+
+LaTeX Warning: Marginpar on page 59 moved.
+
+[59]
+
+LaTeX Warning: Marginpar on page 60 moved.
+
+[60]
+
+LaTeX Warning: Marginpar on page 61 moved.
+
+[61]
+
+LaTeX Warning: Marginpar on page 62 moved.
+
+[62]
+
+LaTeX Warning: Marginpar on page 63 moved.
+
+[63]
+
+LaTeX Warning: Marginpar on page 64 moved.
+
+[64]
+
+LaTeX Warning: Marginpar on page 65 moved.
+
+[65]
+
+LaTeX Warning: Marginpar on page 66 moved.
+
+[66]
+
+LaTeX Warning: Marginpar on page 67 moved.
+
+[67]
+
+LaTeX Warning: Marginpar on page 68 moved.
+
+[68]
+
+LaTeX Warning: Marginpar on page 69 moved.
+
+[69]
+
+LaTeX Warning: Marginpar on page 70 moved.
+
+[70]
+
+LaTeX Warning: Marginpar on page 71 moved.
+
+[71]
+
+LaTeX Warning: Marginpar on page 72 moved.
+
+[72]
+
+LaTeX Warning: Marginpar on page 73 moved.
+
+[73]
+
+LaTeX Warning: Marginpar on page 74 moved.
+
+[74]
+
+LaTeX Warning: Marginpar on page 75 moved.
+
+[75]
+
+LaTeX Warning: Marginpar on page 76 moved.
+
+[76]
+
+LaTeX Warning: Marginpar on page 77 moved.
+
+[77]
+
+LaTeX Warning: Marginpar on page 78 moved.
+
+[78]
+
+LaTeX Warning: Marginpar on page 79 moved.
+
+[79]
+
+LaTeX Warning: Marginpar on page 80 moved.
+
+[80]
+
+LaTeX Warning: Marginpar on page 81 moved.
+
+[81]
+
+LaTeX Warning: Marginpar on page 82 moved.
+
+[82]
+
+LaTeX Warning: Marginpar on page 83 moved.
+
+[83]
+
+LaTeX Warning: Marginpar on page 84 moved.
+
+[84]
+
+LaTeX Warning: Marginpar on page 85 moved.
+
+[85]
+
+LaTeX Warning: Marginpar on page 86 moved.
+
+[86]
+
+LaTeX Warning: Marginpar on page 87 moved.
+
+[87]
+
+LaTeX Warning: Marginpar on page 88 moved.
+
+[88]
+
+LaTeX Warning: Marginpar on page 89 moved.
+
+[89]
+
+LaTeX Warning: Marginpar on page 90 moved.
+
+[90]
+
+LaTeX Warning: Marginpar on page 91 moved.
+
+[91]
+
+LaTeX Warning: Marginpar on page 92 moved.
+
+[92]
+
+LaTeX Warning: Marginpar on page 93 moved.
+
+[93]
+
+LaTeX Warning: Marginpar on page 94 moved.
+
+[94]
+
+LaTeX Warning: Marginpar on page 95 moved.
+
+[95]
+
+LaTeX Warning: Marginpar on page 96 moved.
+
+[96]
+
+LaTeX Warning: Marginpar on page 97 moved.
+
+[97]
+
+LaTeX Warning: Marginpar on page 98 moved.
+
+[98]
+
+LaTeX Warning: Marginpar on page 99 moved.
+
+[99]
+
+LaTeX Warning: Marginpar on page 100 moved.
+
+[100])
+This exam contains 300 questions with 400 parts, 0 subparts, and 0 subsubparts.
+
+
+Class exam Warning: Point totals have changed. Rerun to get point totals right.
+
+
+(./solutions.aux)
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 1949 strings out of 494910
+ 24718 string characters out of 6179836
+ 96021 words of memory out of 5000000
+ 5270 multiletter control sequences out of 15000+600000
+ 5647 words of font info for 23 fonts, out of 8000000 for 9000
+ 36 hyphenation exceptions out of 8191
+ 29i,12n,24p,227b,391s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></us
+r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/shar
+e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texl
+ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/share/texlive/texmf-dist/
+fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/ty
+pe1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/pu
+blic/amsfonts/cm/cmsy7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/am
+sfonts/symbols/msbm10.pfb>
+Output written on solutions.pdf (100 pages, 272818 bytes).
+PDF statistics:
+ 363 PDF objects out of 1000 (max. 8388607)
+ 249 compressed objects within 3 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+
